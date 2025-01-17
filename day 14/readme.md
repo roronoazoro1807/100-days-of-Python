@@ -1,6 +1,7 @@
 Day 14 - Higher or Lower Game 
 
 *What I Learned*:
+
 Python basics: Implementing functions, loops, and conditionals.
 
 Data manipulation: Handling lists and dictionaries for game data.
