@@ -7,6 +7,7 @@ Console management: Using os to clear the screen for better readability.
 User input validation: Ensuring smooth user interaction with input validation.
 
 *Additional Features Added*
+
 Improved User Experience:
 
 -Displaying follower counts at the end of each round for better feedback.
