@@ -23,5 +23,3 @@ The Coffee Machine is a Python program that simulates a vending machine. Users c
 ---
 
 **Happy Coding! ☕**
-
-ps- I ask Chatgpt to write this 🤭
