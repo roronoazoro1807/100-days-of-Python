@@ -49,10 +49,6 @@
 3. **Track Progress:**
    - After completing each work session, a green checkmark will appear, showing how many sessions you’ve completed.
 
-## Example UI
-
-![Pomodoro App UI](images/pomodoro_app_ui.png)
-
 ## Code Structure
 
 - **start_timer:** Starts the timer and determines whether it’s a work session, short break, or long break.
