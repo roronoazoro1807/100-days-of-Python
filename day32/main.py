@@ -9,9 +9,9 @@ import logging
 logging.basicConfig(filename="birthday_mail.log", level=logging.INFO, format="%(asctime)s - %(message)s")
 
 # Load environment variables
-MY_EMAIL = os.getenv("MY_EMAIL", "dimpuAmit143@example.com")  # Fake email for testing
-MY_PASSWORD = os.getenv("MY_PASSWORD", "fakepassword123")  # Fake password for testing
-SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.example.com")  # Fake SMTP server
+MY_EMAIL = os.getenv("MY_EMAIL", "dimpuAmit143@example.com")
+MY_PASSWORD = os.getenv("MY_PASSWORD", "fakepassword123")  
+SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.example.com")  
 
 if not MY_EMAIL or not MY_PASSWORD or not SMTP_SERVER:
     logging.error("Missing environment variables. Please set MY_EMAIL, MY_PASSWORD, and SMTP_SERVER.")
