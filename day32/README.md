@@ -46,7 +46,7 @@ Your Friend
 Run the following command:
 
 ```
-python birthday_email.py
+python main.py
 ```
 
 ## Troubleshooting
