@@ -9,7 +9,7 @@ This script checks if the International Space Station (ISS) is passing over your
 - Runs continuously and checks every 60 seconds.
 
 
-### 2️ Configure Email & Location
+###  Configure Email & Location
 Edit the script and replace placeholders with your details:  
 ```python
 MY_EMAIL = "dimpuAmit143@outlook.com"
