@@ -1,6 +1,5 @@
 # Day 15: Coffee Machine Project
 
-
 ## About the Project
 The Coffee Machine is a Python program that simulates a vending machine. Users can:
 - Order drinks (Espresso, Latte, or Cappuccino).
@@ -18,8 +17,4 @@ The Coffee Machine is a Python program that simulates a vending machine. Users c
 - **Change Calculation**: Provides change for overpayment.
 - **Refund Option**: Cancels payment and refunds inserted coins if requested.
 - **Maintenance Mode**: Use the `off` command to shut down the machine.
-- **Reporting**: Prints the current resource levels (water, milk, coffee, and money).
-
----
-
-**Happy Coding! ☕**
+- **Reporting**: Prints the current resource levels (water, milk, coffee, and money)
